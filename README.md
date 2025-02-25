@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Zhillan and I'm a Front-end Developer from Bandung, ID.</h1>
+<h1 align="left">Hi 👋! My name is Zhillan and I'm a Fullstack Developer from Bandung, ID.</h1>
 
 ###
 
